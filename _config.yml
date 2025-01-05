@@ -1,14 +1,13 @@
-title: "Meu Tema Minimalista"
-description: "Site minimalista usando YAML no GitHub"
-author: "Seu Nome"
+title: "HTML-CSS"
+description: "Curso do curso em video"
+author: "João Ricardo"
 baseurl: ""
-url: "https://seunome.github.io/minimal-theme-site"
+url: "https://joaoric30a.github.io/html-css"
 theme: jekyll-theme-minimal
 markdown: kramdown
 permalink: pretty
 socials:
-  twitter: "https://twitter.com/seunome"
-  github: "https://github.com/seunome"
+  github: "https://github.com/joaoric30a"
 
 # Configurações extras de exibição
 collections:
