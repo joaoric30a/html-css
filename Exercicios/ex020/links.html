@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .especial {
+            color: aliceblue;
+            background-color: rgba(255, 0, 0, 0.705);
+        }
+
+        a:visited {
+            color: darkred;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: black;
+        }
+
+        a:active {
+            color: blue;
+
+        }
+
+        .especial::before {
+            content: '👉';
+        }
+
+        .especial::after {
+            content: '👈';
+        }
+    </style>
+</head>
+<body>
+    <h1>personalizando links</h1>
+    <ul>
+        <li><a href="https://chatgpt.com/" target="_blank">chatgpt</a></li>
+
+        <li><a href="https://pt.wikipedia.org/wiki/Itaituba" class="especial">wikipedia</a></li>
+
+        <li><a href="https://www.olx.com.br/imoveis/venda/casas/estado-pa/regiao-de-santarem/itaituba">olx</a></li>
+    </ul>
+</body>
+</html>
