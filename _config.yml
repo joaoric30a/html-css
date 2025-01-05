@@ -1,6 +1,0 @@
-theme: minimal
-custom_css: /assets/styles.css
-
-.site-footer {
-    display: none;
-}
