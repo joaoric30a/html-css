@@ -1,0 +1,7 @@
+title: "HTML-CSS"
+description: "Este repositório contém algumas das aulas do curso em vídeo de HTML e CSS."
+url: "https://joaoric30a.github.io/html-css"  # Substitua com seu usuário e repositório
+baseurl: ""  # Deixe em branco para que o site apareça na raiz do repositório
+
+# Configurações adicionais do Jekyll (como tema)
+theme: "jekyll-theme-cayman"  # Usando um tema simples do Jekyll, você pode escolher outro tema
