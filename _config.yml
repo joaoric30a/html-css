@@ -1,0 +1,16 @@
+title: "Meu Tema Minimalista"
+description: "Site minimalista usando YAML no GitHub"
+author: "Seu Nome"
+baseurl: ""
+url: "https://seunome.github.io/minimal-theme-site"
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: pretty
+socials:
+  twitter: "https://twitter.com/seunome"
+  github: "https://github.com/seunome"
+
+# Configurações extras de exibição
+collections:
+  posts:
+    output: true
