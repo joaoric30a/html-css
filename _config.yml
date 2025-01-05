@@ -1,4 +1,3 @@
-gems:
-  - jekyll-minimal
-minimal:
-  footer: false
+theme: minimal
+show_downloads: false
+custom_css: assets/styles.css
